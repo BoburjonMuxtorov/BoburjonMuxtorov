@@ -1,1 +1,1 @@
-Hi , I'm  Boburjon Muxtorov 	<img   style="width:10%" src='"https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif">
+Hi , I'm  Boburjon Muxtorov 	<img style="width:10%" src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif">
