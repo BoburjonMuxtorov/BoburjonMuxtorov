@@ -1,1 +1,1 @@
-Hi , I'm  Boburjon Muxtorov /html/body/div[4]/div[2]/div/div[6]/div/div[2]/div[1]/div[1]/div/div/div[2]/div[1]/div/div/img
+Hi , I'm  Boburjon Muxtorov 	<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjEx…MzQ2ZDFjZGQxMSZjdD1n/jsHXlTn1O2NOuAHB7A/giphy.gif" class="hand">
